@@ -1,1 +1,2 @@
 # E-book-Store-
+The "Ebook Store" is online shopping store (E-commerce site)  that allows users to browse, purchase wide variety of  books. All the books are available for all  users . In this website   Users can create accounts, log in, and manage their profile. User can add ebooks to their shopping cart. It is mobile-friendly interface for browsing and purchasing ebooks on various devices. It is a Secure online platform  for purchasing books and also secured payment .
